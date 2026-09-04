@@ -23,24 +23,23 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ---------------
 ## 💭 Reflection and Self Assessment
 
-**I learned:** (repeat as needed)
+**I learned to use GitHub Classroom to accept an assignment to clone my own repository and to use Github desktop.
 - .
 
-**I struggled with:** (repeat as needed)
+**I struggled with understanding how to navigate Github and the workflow because I am new to it.
 - .
 
-**I need the instructor to help me with:** (repeat as needed)
+**I do not think I need help at the moment but will defiantly reach out at some point with any questions.
 - .
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 17 out of 20.
 
 
 ## 📚 References and Citations
-**I used the following links, books, and other resources in my work:** (repeat as needed)
+**I used the following links: https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
 - .
   
-**I received help from the following people:** (repeat as needed)
-- . 
+
 
 ---
 ## Copyrights and License
